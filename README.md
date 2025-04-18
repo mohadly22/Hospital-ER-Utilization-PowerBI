@@ -42,4 +42,8 @@ This analysis is designed to support **hospital management** in improving:
 
 - **Excel and Power Query** – for data import, transformation, and preparation  
 - **Power BI** – for dashboard design and interactive reporting
-
+  
+Feel free to connect with **[Mohamed Adly](https://www.linkedin.com/in/mohamed-adly-346610189/)**  
+<a href="https://www.linkedin.com/in/mohamed-adly-346610189/" target="_blank">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="30" height="30">
+</a>
