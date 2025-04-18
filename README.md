@@ -1,24 +1,19 @@
-🏥Emergency Room Usage Analysis | Excel Power Query + Power BI
+# 🏥 Emergency Room Usage Analysis | Excel Power Query + Power BI
 
 Analyzed hospital emergency room data to provide a monthly view of patient trends and operational efficiency. This project was built using Excel Power Query for data cleaning and transformation, and Power BI for interactive visualization and insights.
 
-🔍 #Key Insights
+## 🔍Key Insights
 
-Total number of patients visiting the ER each month
+- Total number of patients visiting the ER each month  
+- Average waiting time before treatment  
+- Number of patients referred to other departments  
+- Average patient satisfaction score  
+- Patient distribution by age group  
+- Referrals breakdown by department  
 
-Average waiting time before treatment
+## 📊Dashboard
 
-Number of patients referred to other departments
-
-Average patient satisfaction score
-
-Patient distribution by age group
-
-Referrals breakdown by department
-
-📊Dashboard
-
-The Power BI dashboard presents the analysis through interactive visuals, including:
+**The Power BI dashboard presents the analysis through interactive visuals, including:**
 
 📈 ER Visits Over Time: Trend line showing monthly patient count
 
@@ -30,24 +25,21 @@ The Power BI dashboard presents the analysis through interactive visuals, includ
 
 📍 Filter Options: Dynamic slicers for date, gender, and age group
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/Hospital-ER-Analysis/main/images/Hospital%20E1.png" width="30%" alt="Hospital E1">
-  <img src="https://raw.githubusercontent.com/your-username/Hospital-ER-Analysis/main/images/E2.png" width="30%" alt="E2">
-  <img src="https://raw.githubusercontent.com/your-username/Hospital-ER-Analysis/main/images/E3.png" width="30%" alt="E3">
+  <img src="https://raw.githubusercontent.com/mohadly22/Hospital-ER-Utilization-PowerBI/main/Hospital%20E1.PNG" width="30%" alt="E1">
+  <img src="https://raw.githubusercontent.com/mohadly22/Hospital-ER-Utilization-PowerBI/main/E2.PNG" width="30%" alt="E2">
+  <img src="https://raw.githubusercontent.com/mohadly22/Hospital-ER-Utilization-PowerBI/main/E3.PNG" width="30%" alt="E3">
 </p>
-🎯Purpose
-This analysis is designed to support hospital management in improving:
 
-Resource allocation
+## 🎯Purpose
+This analysis is designed to support **hospital management** in improving:
 
-Patient flow efficiency
+- Resource allocation  
+- Patient flow efficiency  
+- Department coordination  
+- Overall hospital performance
+  
+## 🛠Tools Used
 
-Department coordination
-
-Overall hospital performance
-
-🛠Tools Used
-
-Excel and Power Query – for data import, transformation, and preparation
-
-Power BI – for dashboard design and interactive reporting
+- **Excel and Power Query** – for data import, transformation, and preparation  
+- **Power BI** – for dashboard design and interactive reporting
 
